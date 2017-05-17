@@ -1,0 +1,27 @@
+2017-05-17 17:23:34,973 - exampleApp - INFO - Program started
+2017-05-17 17:23:35,059 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod2.py: line number is: 13
+2017-05-17 17:23:35,059 - exampleApp - INFO - Done!
+2017-05-17 17:23:35,061 - exampleApp - INFO - Program started
+2017-05-17 17:23:35,061 - exampleApp - INFO - Program started
+2017-05-17 17:23:35,068 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 7
+2017-05-17 17:23:35,068 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 7
+2017-05-17 17:23:35,128 - exampleApp - INFO - Done!
+2017-05-17 17:23:35,128 - exampleApp - INFO - Done!
+2017-05-17 17:38:22,167 - exampleApp - INFO - Program started
+2017-05-17 17:38:22,246 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod2.py: line number is: 14 result is: 15
+2017-05-17 17:38:22,247 - exampleApp - INFO - Done!
+2017-05-17 17:38:22,250 - exampleApp - INFO - Program started
+2017-05-17 17:38:22,250 - exampleApp - INFO - Program started
+2017-05-17 17:38:22,263 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 7 result is: 9
+2017-05-17 17:38:22,263 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 7 result is: 9
+2017-05-17 17:38:22,263 - exampleApp - INFO - Done!
+2017-05-17 17:38:22,263 - exampleApp - INFO - Done!
+2017-05-17 17:43:06,726 - exampleApp - INFO - Program started
+2017-05-17 17:43:06,812 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod2.py: line number is: 14 sum of numbers: 7 8 is: 15
+2017-05-17 17:43:06,812 - exampleApp - INFO - Done!
+2017-05-17 17:43:06,812 - exampleApp - INFO - Program started
+2017-05-17 17:43:06,812 - exampleApp - INFO - Program started
+2017-05-17 17:43:06,821 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 7 sum of numbers: 4 5 is: 9
+2017-05-17 17:43:06,821 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 7 sum of numbers: 4 5 is: 9
+2017-05-17 17:43:06,821 - exampleApp - INFO - Done!
+2017-05-17 17:43:06,821 - exampleApp - INFO - Done!
