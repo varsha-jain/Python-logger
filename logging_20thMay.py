@@ -11,28 +11,32 @@ def singleton(cls):
 
 @singleton
 class Logger():
+
     @staticmethod
+
+
     def log(first, second, passed_result):
-        logger = logging.getLogger("exampleApp")
-        logger.setLevel(logging.INFO)
 
-        # create the logging file handler
-        fh = logging.FileHandler("logged_info.log")
+            logger = logging.getLogger("exampleApp")
+            logger.setLevel(logging.INFO)
 
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-        fh.setFormatter(formatter)
+            # create the logging file handler
+            fh = logging.FileHandler("logged_info.log")
 
-        # add handler to logger object
-        logger.addHandler(fh)
+            formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+            fh.setFormatter(formatter)
 
-        logger.info("Program started")
-        frame, filename, line_number, function_name, lines, index = inspect.stack()[1]
+            # add handler to logger object
+            logger.addHandler(fh)
 
-        print(frame, filename, line_number, function_name, lines, index)
-        # module = inspect.getmodule(frame[0])
+            logger.info("Program started")
+            frame, filename, line_number, function_name, lines, index = inspect.stack()[1]
 
-        logger.info("filename is %s: line number is: %s sum of numbers: %s %s is: %s" % (
-        filename, line_number, first, second, passed_result))
-        logger.info("Done!")
+            print(frame, filename, line_number, function_name, lines, index)
+            # module = inspect.getmodule(frame[0])
+
+            logger.info("filename is %s: line number is: %s sum of numbers: %s %s is: %s" % (
+            filename, line_number, first, second, passed_result))
+            logger.info("Done!")
 
 

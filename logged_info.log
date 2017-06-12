@@ -16,3 +16,12 @@
 2017-05-21 00:23:15,424 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 9 sum of numbers: 4 5 is: 9
 2017-05-21 00:23:15,426 - exampleApp - INFO - Done!
 2017-05-21 00:23:15,426 - exampleApp - INFO - Done!
+2017-06-12 16:57:31,148 - exampleApp - INFO - Program started
+2017-06-12 16:57:31,229 - exampleApp - INFO - filename is C:/Python27/python_examples/otherMod2.py: line number is: 16 sum of numbers: 7 8 is: 15
+2017-06-12 16:57:31,229 - exampleApp - INFO - Done!
+2017-06-12 16:57:31,230 - exampleApp - INFO - Program started
+2017-06-12 16:57:31,230 - exampleApp - INFO - Program started
+2017-06-12 16:57:31,232 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 9 sum of numbers: 4 5 is: 9
+2017-06-12 16:57:31,232 - exampleApp - INFO - filename is C:\Python27\python_examples\otherMod3.py: line number is: 9 sum of numbers: 4 5 is: 9
+2017-06-12 16:57:31,232 - exampleApp - INFO - Done!
+2017-06-12 16:57:31,232 - exampleApp - INFO - Done!
